@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1514
+
+It can switch between your source file (.c/.cpp files) and the related header file (.h files), to save your time :)
